@@ -1,0 +1,5 @@
+* Worked for the [[Order of the Closed Ear]] monastic group under [[Tovian, the Bellringer]] 
+* Was tracking down the [[Hollow Crown]]
+* Was [[Suspended in Time]]
+* Came from the small village of [[Rosewood]]
+* Has a [[Great Great Great Great Nephew, Edmund]]

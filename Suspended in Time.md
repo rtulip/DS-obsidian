@@ -1,0 +1,1 @@
+[[Zorri]] was suspended in the Sewers of [[Capital]] for over 100 years as a result of the [[Cataclysm]].

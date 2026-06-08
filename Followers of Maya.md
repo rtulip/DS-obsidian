@@ -1,0 +1,1 @@
+The disciples of [[Maya the Pure]]. Raise the [[The White Standard]]

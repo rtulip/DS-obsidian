@@ -1,0 +1,3 @@
+A powerful magic user, who has sacrificed much to embrace immortality.
+
+The ritual to create a lich requires a sphere constructed of something personal to the subject. To complete the rite, the subject must rip out their own heart and the heart of a living loved one, placing both inside the sphere, create the lich's soulstone. As long as the soulstone remains intact, a Lich can never truly die. Most soulstones are small and easy to conceal.
