@@ -10,6 +10,7 @@ Each players tie-in to the plot:
 * The [[Mortal Coil]] is only present when he's close to death. That _will_ change when when near spirits.
 * I need a set of visions to point them towards the same evils.
 	* [[Vision 1]]
+	* [[Vision 2]]
 	* 
 #### [[Plantain]]:
 * Has already interacted with the [[The Order of the Last Breath]]
@@ -18,12 +19,13 @@ Each players tie-in to the plot:
 	* Way to learn what [[Barakat (BBEG)]] is trying to do.
 #### [[Jakkal]]:
 * Need a downtime activity in stages
+	* 360 project points to make an initial connection.
 * Has 2 souls inside of them [[Blessing of the Two]] (a form of Chimerism)
 	* This could lead to a badass scene of talking with a Chimea who recognizes them as the same!!!
 * Needs to find people that study the soul
 	* That sure sounds like the spinoff of the [[Order of the Closed Ear]] who want to redeem [[Tovian, the Bellringer]]
 	* They know little about the [[Blessing of the Two]], but the largest study of souls was done by [[Threxian Voss, the Heartless King]] and can be found in his [[Grimoire of the Heartless]].
-## [[Last Gasp]]
+## [[Echelon 1]]
 * Escalating danger at a town
 	* Graverobbing
 	* Kidnapping

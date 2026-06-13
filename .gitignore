@@ -1,6 +1,5 @@
 # Ignore temporary workspace layouts (causes 99% of merge conflicts)
-.obsidian/workspace.json
-.obsidian/workspace-mobile.json
+.obsidian/
 
 # Ignore local trash bin
 .trash/
@@ -8,3 +7,5 @@
 # Ignore heavy/hidden system or cache files
 .DS_Store
 *.log
+
+draw-steel-compendium/
